@@ -1,4 +1,4 @@
-# vscode
+# vpad text editor
 A text editor upgradation from notepad
 vpad.py contains the main code files
 setup.py is the setup file which contain codes related to setup and is used to change the py file to mse installer
